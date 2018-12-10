@@ -1,2 +1,2 @@
-# FGOManage
-Fate/GrandOrder Data Manage Tool 
+# FGOManagment
+Fate/GrandOrder Data Management Tool 
